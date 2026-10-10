@@ -1,0 +1,121 @@
+/* Pengaturan dasar */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8eb;
+  color: #405563;
+  line-height: 1.7;
+}
+
+/* Header */
+header {
+  background-color: #c5e8f5;
+  text-align: center;
+  padding: 25px 15px;
+}
+
+header h1 {
+  color: #315b70;
+  margin-bottom: 15px;
+}
+
+/* Menu navigasi */
+nav a {
+  display: inline-block;
+  color: #315b70;
+  text-decoration: none;
+  margin: 5px 8px;
+  padding: 7px 12px;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  background-color: #f0dfbd;
+  color: #654d2e;
+}
+
+/* Bagian konten */
+section {
+  background-color: #ffffff;
+  margin: 25px auto;
+  padding: 25px;
+  width: 90%;
+  max-width: 900px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px #d8e5e8;
+}
+
+/* Judul */
+h2 {
+  color: #39758f;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+h3 {
+  color: #527c8e;
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+/* Gambar wisata */
+img {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin: 20px auto 0;
+  border-radius: 12px;
+}
+
+/* Kartu daya tarik */
+article {
+  background-color: #f5e8cf;
+  padding: 18px;
+  margin-top: 15px;
+  border-radius: 12px;
+}
+
+/* Daftar informasi */
+ul {
+  padding-left: 25px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Footer */
+footer {
+  background-color: #c5e8f5;
+  color: #315b70;
+  text-align: center;
+  padding: 18px;
+  margin-top: 30px;
+}
+
+/* Tampilan HP */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 22px;
+  }
+
+  nav a {
+    margin: 3px;
+    font-size: 14px;
+  }
+
+  section {
+    width: 92%;
+    padding: 18px;
+  }
+}
