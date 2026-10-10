@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jelajah Wisata Indonesia</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Jelajah Wisata Indonesia</h1>
+    <nav>
+      <a href="#beranda">Beranda</a>
+      <a href="#tentang">Tentang</a>
+      <a href="#daya-tarik">Daya Tarik</a>
+      <a href="#info">Informasi</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="beranda" class="hero">
+      <p class="label">Ketep Pass</p>
+      <h2>Ketep Pass</h2>
+      <p>Ketep Pass, Pesona Alam yang Bikin Jatuh Hati! 🌄</p>
+    </section>
+
+    <section id="tentang" class="section">
+      <h2>Mengenal Ketep Pass</h2>
+      <p>Ketep Pass merupakan salah satu destinasi wisata alam yang 
+        terletak di Kabupaten Magelang, Jawa Tengah. Wisata ini
+         terkenal dengan pemandangan pegunungan yang indah, terutama
+          Gunung Merapi dan Gunung Merbabu. Udara yang sejuk serta
+           panorama alam yang memukau menjadikan Ketep Pass sebagai 
+           tempat yang cocok untuk menikmati keindahan alam dan 
+           melepas penat dari kesibukan sehari-hari.</p>
+      <p>Selain menikmati pemandangan pegunungan, wisatawan juga 
+        dapat mengabadikan momen bersama keluarga maupun teman 
+        di berbagai spot foto yang menarik. Ketep Pass juga 
+        memiliki fasilitas wisata seperti gardu pandang dan museum 
+        vulkanologi yang memberikan informasi tentang aktivitas 
+        Gunung Merapi. Dengan keindahan alam, suasana yang 
+        menyegarkan, dan pengalaman wisata yang menarik, Ketep Pass
+         menjadi salah satu 
+        destinasi yang patut dikunjungi saat berlibur ke Magelang.</p>
+      <img src="image.ketep pass 2.jpeg" width="150" height="150" alt="Pemandangan Ketep Pass">
+      <p class="sumber">Sumber gambar: Pinterest</p>
+    </section>
+
+    <section id="daya-tarik" class="section">
+      <h2>Daya Tarik Wisata</h2>
+      <div class="kartu-container">
+        <article class="kartu">
+          <h3>Ketep Pass memiliki daya tarik berupa panorama alam 
+            pegunungan yang indah, terutama pemandangan Gunung Merapi 
+            dan Gunung Merbabu. Udara yang sejuk, hamparan perbukitan 
+            hijau, serta pemandangan alam yang memukau menjadikan tempat
+             ini cocok untuk bersantai, berfoto, 
+            dan menikmati keindahan alam bersama keluarga maupun teman.</h3>
+          <p>Ketep Pass merupakan objek wisata alam yang 
+            terletak di Kecamatan Sawangan, Kabupaten Magelang, 
+            Jawa Tengah. Selain menikmati pemandangan pegunungan, 
+            pengunjung juga dapat mengunjungi gardu pandang dan Museum
+             Vulkanologi untuk mengenal lebih jauh tentang Gunung Merapi
+             . Ketep Pass menjadi salah satu destinasi
+             wisata menarik bagi wisatawan yang berkunjung ke Magelang.</p>
+        </article>
+        <article class="kartu">
+          <h3>Panorama Gunung Merapi dan Gunung Merbabu
+Ketep Pass menawarkan pemandangan alam yang indah 
+dengan latar Gunung Merapi dan Gunung Merbabu yang menjulang 
+tinggi. Udara yang sejuk serta hamparan perbukitan hijau 
+membuat pengunjung dapat menikmati suasana alam yang 
+menenangkan dan mengabadikan momen melalui foto yang menarik.</h3>
+          <p>Lokasi dan Keadaan Alam
+Ketep Pass merupakan objek wisata yang terletak 
+di Kecamatan Sawangan, Kabupaten Magelang, Jawa Tengah. 
+Tempat ini berada di kawasan dataran tinggi sehingga memiliki 
+udara yang relatif sejuk. Lokasinya yang dikelilingi 
+pegunungan menjadikan Ketep Pass sebagai
+ salah satu tujuan wisata alam yang menarik di Magelang.</p>
+        </article>
+        <article class="kartu">
+          <h3>Pemandangan Alam dan Spot Foto
+Ketep Pass memiliki pemandangan alam yang memukau dan 
+berbagai sudut menarik untuk berfoto. Keindahan pegunungan, 
+langit yang luas, serta suasana yang menyegarkan menjadikan 
+tempat ini
+ cocok untuk berwisata bersama keluarga maupun teman.</h3>
+          <p>Fasilitas dan Edukasi Wisata
+Selain menikmati keindahan alam, pengunjung dapat mengunjungi gardu pandang dan Museum Vulkanologi untuk memperoleh informasi mengenai aktivitas Gunung Merapi. Tersedianya fasilitas wisata tersebut membuat Ketep Pass tidak hanya menjadi tempat rekreasi, tetapi juga sarana edukasi zyang menambah pengetahuan pengunjung tentang gunung berapi.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="info" class="section">
+      <h2>Informasi Berkunjung</h2>
+      <ul>
+        <li>Lokasi: Kecamatan Sawangan, Kabupaten Magelang, 
+            Jawa Tengah</li>
+        <li>Waktu terbaik berkunjung:Waktu terbaik mengunjungi Ketep
+             Pass Magelang adalah pagi hari pukul 08.00-10.00 WIB
+              saat udara masih sejuk dan pemandangan Gunung Merapi 
+              serta Gunung Merbabu berpeluang terlihat jelas. Musim
+               kemarau, 
+            sekitar Mei-September, juga bisa menjadi pilihan yang baik.
+</li>
+        <li>Tips: Tips Berkunjung ke Ketep Pass Magelang
+
+ 🌤️ Datanglah pagi hari agar pemandangan gunung terlihat lebih jelas.
+
+ 🧥 Gunakan jaket karena udara cukup sejuk.
+
+ 👟 Kenakan alas kaki yang nyaman untuk berjalan-jalan.
+
+ 📸 Bawa kamera atau ponsel untuk mengabadikan pemandangan.
+
+ 🌿 Jaga kebersihan dan buang sampah pada tempatnya.
+
+ ☁️ Periksa prakiraan cuaca sebelum berkunjung.
+</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Jelajah Wisata Indonesia | Dibuat oleh Tyas</p>
+  </footer>
+</body>
+</html>
